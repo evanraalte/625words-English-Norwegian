@@ -1,632 +1,632 @@
-actor; 
-afternoon; 
-alive; 
-apple; 
-adjective; 
-air; 
-animal; 
-April; 
-adult; 
-airport; 
-apartment; 
-arm; 
-army; 
-bed; 
-box (noun); 
-cat; 
-art; 
-bedroom; 
-boy; 
-catch (verb); 
-artist; 
-beef; 
-brain; 
-ceiling; 
-attack (noun); 
-beer; 
-bread; 
-cell; 
-phone; 
-August; 
-bend (verb); 
-break (verb); 
-centimeter; 
-author (noun); 
-beverage; 
-breakfast; 
-chair (noun); 
-baby; 
-bicycle; 
-bridge (noun); 
-cheap; 
-back (body); 
-big/large; 
-brother; 
-cheese; 
-back (direction); 
-bill (noun); 
-brown; 
-chicken; 
-bad; 
-billion; 
-build (verb); 
-child; 
-bag (noun); 
-bird; 
-building; 
-church; 
-ball; 
-black; 
-burn (verb); 
-circle (noun); 
-banana; 
-blind (adjective); 
-bus; 
-city; 
-band (music); 
-blood; 
-buy (verb); 
-clay; 
-bank; 
-blue; 
-cake; 
-clean (adjective); 
-bar (location); 
-boat; 
-call (verb); 
-clean (verb); 
-bathroom; 
-body; 
-camera; 
-clock; 
-beach; 
-bone; 
-camp (noun); 
-close (verb); 
-beard; 
-book; 
-car; 
-clothing; 
-beat (verb); 
-bottle; 
-card; 
-club (the; 
-location); 
-beautiful; 
-bottom; 
-carry (verb); 
-coat (noun); 
-coffee; 
-dark; 
-down; 
-energy; 
-cold; 
-date (May; 
-7)
-draw (verb); 
-engine; 
-color (noun); 
-daughter; 
-dream (noun); 
-evening; 
-computer; 
-day; 
-dress (noun); 
-exercise (noun); 
-consonant; 
-dead; 
-drink (verb); 
-expensive; 
-contract (noun); 
-deaf; 
-drive (verb); 
-explode (verb); 
+actor; kuespiller
+afternoon; ettermiddag
+alive; i live
+apple; eple
+adjective; adjektiv
+air; luft
+animal; dyr
+April; april
+adult; voksen
+airport; flyplassen
+apartment; leilighet
+arm; væpne
+army; hær
+bed; seng
+box (noun); eske
+cat; katt
+art; Kunst
+bedroom; soverom
+boy; gutt
+catch (verb); å fange
+artist; kunstner
+beef; storfekjøtt
+brain; hjerne
+ceiling; tak
+attack (noun); angrep
+beer; øl
+bread; brød
+cell; celle
+phone; telefon
+August; august
+bend (verb); bøye
+break (verb); gå i stykker
+centimeter; centimeter
+author (noun); forfatter
+beverage; drikke
+breakfast; frokost
+chair (noun); stol
+baby; baby
+bicycle; sykkel
+bridge (noun); bro
+cheap; billig
+back (body); tilbake
+big/large; stor / stor
+brother; bror
+cheese; ost
+back (direction); tilbake
+bill (noun); regning
+brown; brun
+chicken; kylling
+bad; dårlig
+billion; milliarder
+build (verb); bygge
+child; barn
+bag (noun); bag
+bird; fugl
+building; bygning
+church; kirke
+ball; ball
+black; svart
+burn (verb); brenne
+circle (noun); sirkel
+banana; banan
+blind (adjective); blind
+bus; buss
+city; by
+band (music); bånd
+blood; blod
+buy (verb); kjøpe
+clay; leire
+bank; bank
+blue; blå
+cake; kake
+clean (adjective); ren
+bar (location); Bar
+boat; båt
+call (verb); anrop
+clean (verb); ren
+bathroom; baderom
+body; kropp
+camera; kamera
+clock; klokke
+beach; Strand
+bone; bein
+camp (noun); leir
+close (verb); Lukk
+beard; skjegg
+book; bok
+car; bil
+clothing; klær
+beat (verb); slå
+bottle; flaske
+card; kort
+club (the; klubb (the
+location); plassering)
+beautiful; vakker
+bottom; bunn
+carry (verb); bære
+coat (noun); frakk
+coffee; kaffe
+dark; mørk
+down; ned
+energy; energi
+cold; kald
+date (May; dato (mai
+7)7)
+draw (verb); tegne
+engine; motor
+color (noun); farge
+daughter; datter
+dream (noun); drøm
+evening; kveld
+computer; datamaskin
+day; dag
+dress (noun); kjole
+exercise (noun); trening
+consonant; konsonant
+dead; død
+drink (verb); drikke
+expensive; dyrt
+contract (noun); kontrakt
+deaf; døv
+drive (verb); kjøre
+explode (verb); eksplodere
 
 
-cook (verb); 
-death; 
-drug (noun); 
-eye (noun); 
-cool (adjective); 
-December; 
-dry; 
-face (noun); 
-copper; 
-deep; 
-dust (noun); 
-fall (season); 
-corn; 
-diamond; 
-ear; 
-fall (verb); 
-corner (noun); 
-die (verb); 
-Earth; 
-family; 
-count (verb); 
-dig (verb); 
-east; 
-famous; 
-country (United; 
-States,; 
-Spain); 
-dinner; 
-eat (verb); 
-fan (electric); 
-court; 
-direction; 
-edge; 
-fan (sport); 
-cow; 
-dirty; 
-egg; 
-farm (noun); 
-crowd (noun); 
-disease; 
-eight; 
-fast; 
-cry (verb); 
-doctor; 
-eighteen; 
-father; 
-cup; 
-dog; 
-eighty; 
-February; 
-curved; 
-dollar; 
-election; 
-feed (verb); 
-cut (verb); 
-door; 
-electronics; 
-female; 
-dance (verb); 
-dot; 
-eleven; 
-fifteen; 
-fifth (5th); 
-fourteen; 
-grow (verb); 
-horse; 
-fifty; 
-fourth (4th); 
-gun; 
-hospital; 
-fight (verb); 
-Friday; 
-hair; 
-hot; 
-find (verb); 
-friend; 
-half; 
-hotel; 
-finger; 
-front; 
-hand; 
-hour; 
-fire (noun); 
-game; 
-hang (verb); 
-house; 
-first (1st); 
-garden; 
-happy; 
-human; 
-fish (noun); 
-gasoline; 
-hard; 
-hundred; 
-five; 
-gift; 
-hat; 
-husband; 
-flat (adjective); 
-girl; 
-he; 
-I; 
-floor; 
-glass; 
-head; 
-ice; 
-flower; 
-go (verb); 
-healthy; 
-image; 
-fly (verb); 
-God; 
-hear (a; 
-sound); 
-inch; 
-follow (verb); 
-gold; 
-heart; 
-injury; 
-food; 
-good; 
-heat (noun); 
-inside; 
-foot (body; 
-part); 
-grandfather; 
-heaven; 
-instrument (musical); 
-foot (measurement); 
-grandmother; 
-heavy; 
-island; 
-forest; 
-grass; 
-hell; 
-it; 
-fork; 
-gray; 
-high; 
-January; 
-forty; 
-green; 
-hill; 
-job; 
-four; 
-ground; 
-hole; 
-juice; 
+cook (verb); kokk
+death; død
+drug (noun); legemiddel
+eye (noun); øye
+cool (adjective); kul
+December; desember
+dry; tørke
+face (noun); ansikt
+copper; kobber
+deep; dyp
+dust (noun); støv
+fall (season); falle
+corn; korn
+diamond; diamant
+ear; øre
+fall (verb); falle
+corner (noun); hjørne
+die (verb); dø
+Earth; Jord
+family; familie
+count (verb); telle
+dig (verb); grave
+east; øst
+famous; berømt
+country (United; land (United
+States,; stater,
+Spain); Spania)
+dinner; middag
+eat (verb); spise
+fan (electric); fan
+court; domstol
+direction; retning
+edge; kant
+fan (sport); fan
+cow; ku
+dirty; skitne
+egg; egg
+farm (noun); gård
+crowd (noun); publikum
+disease; sykdom
+eight; åtte
+fast; fort
+cry (verb); gråte
+doctor; doktor
+eighteen; atten
+father; far
+cup; kopp
+dog; hund
+eighty; åtti
+February; februar
+curved; krummet
+dollar; dollar
+election; valg
+feed (verb); mate
+cut (verb); kutte opp
+door; dør
+electronics; elektronikk
+female; hunn
+dance (verb); danse
+dot; punktum
+eleven; elleve
+fifteen; femten
+fifth (5th); femte (femte)
+fourteen; fjorten
+grow (verb); vokse
+horse; hest
+fifty; femti
+fourth (4th); fjerde (fjerde)
+gun; våpen
+hospital; sykehus
+fight (verb); slåss
+Friday; fredag
+hair; hår
+hot; varmt
+find (verb); finne
+friend; venn
+half; halv
+hotel; hotell
+finger; finger
+front; front
+hand; hånd
+hour; time
+fire (noun); Brann
+game; spill
+hang (verb); henge
+house; hus
+first (1st); første (første)
+garden; hage
+happy; lykkelig
+human; menneskelig
+fish (noun); fisk
+gasoline; bensin
+hard; hard
+hundred; hundre
+five; fem
+gift; gave
+hat; hatt
+husband; mann
+flat (adjective); flat
+girl; pike
+he; han
+I; Jeg
+floor; gulv
+glass; glass
+head; hode
+ice; is
+flower; blomst
+go (verb); gå
+healthy; sunn
+image; bilde
+fly (verb); fly
+God; Gud
+hear (a; høre (a
+sound); lyd)
+inch; tommers
+follow (verb); Følg
+gold; gull
+heart; hjerte
+injury; skade
+food; mat
+good; flink
+heat (noun); varme
+inside; innsiden
+foot (body; fot (kropp
+part); del)
+grandfather; farfar
+heaven; himmel
+instrument (musical); instrument
+foot (measurement); fot
+grandmother; mormor
+heavy; tung
+island; øy
+forest; skog
+grass; gress
+hell; helvete
+it; den
+fork; gaffel
+gray; grå
+high; høy
+January; januar
+forty; førti
+green; grønn
+hill; høyde
+job; jobb
+four; fire
+ground; bakke
+hole; hull
+juice; juice
 
 
-July; 
-library; 
-March; 
-mouse; 
-jump (verb); 
-lie; 
-down (verb); 
-market; 
-mouth; 
-June; 
-lift (verb); 
-marriage; 
-movie; 
-key; 
-light (/dark); 
-marry (verb); 
-murder (noun); 
-kill (verb); 
-light (/heavy); 
-material; 
-music; 
-kilogram; 
-light (noun); 
-May; 
-narrow; 
-king; 
-lip; 
-mean (/nice); 
-nature; 
-kiss (verb); 
-listen (music) (verb); 
-medicine; 
-neck; 
-kitchen; 
-location; 
-melt (verb); 
-needle; 
-knee; 
-lock (noun); 
-metal; 
-neighbor; 
-knife; 
-long; 
-meter; 
-network; 
-lake; 
-loose; 
-milk; 
-new; 
-lamp; 
-lose (verb); 
-million; 
-newspaper; 
-laptop; 
-loud; 
-minute; 
-nice; 
-laugh (verb); 
-love (verb); 
-mix/stir (verb); 
-night; 
-lawyer; 
-low; 
-Monday; 
-nine; 
-leaf; 
-lunch; 
-money; 
-nineteen; 
-learn (verb); 
-magazine; 
-month; 
-ninety; 
-left (direction); 
-male; 
-moon; 
-no; 
-leg; 
-man; 
-morning; 
-north; 
-lemon; 
-manager; 
-mother; 
-nose; 
-letter; 
-map; 
-mountain; 
-note (on; 
-paper); 
-November; 
-pass (verb); 
-pool; 
-restaurant; 
-nuclear; 
-patient (noun); 
-poor; 
-rice; 
-number; 
-pattern; 
-pork; 
-rich; 
-ocean; 
-pay (verb); 
-pound (weight); 
-right (direction); 
-October; 
-peace; 
-pray (verb); 
-ring; 
-office; 
-pen; 
-president; 
-river; 
-oil; 
-pencil; 
-price; 
-roof; 
-old (/new); 
-person; 
-priest; 
-room (in; 
-a; 
-house); 
-old (/young); 
-photograph; 
-prison; 
-root; 
-one; 
-piece; 
-program (computer); 
-run (verb); 
-open (verb); 
-pig; 
-pull (verb); 
-sad; 
-orange (color); 
-pink; 
-push (verb); 
-salt; 
-orange (food); 
-plane; 
-queen; 
-sand; 
+July; juli
+library; bibliotek
+March; mars
+mouse; mus
+jump (verb); hoppe
+lie; å ligge
+down (verb); ned
+market; marked
+mouth; munn
+June; juni
+lift (verb); løfte
+marriage; ekteskap
+movie; film
+key; nøkkel
+light (/dark); lys mørk)
+marry (verb); gifte seg
+murder (noun); mord
+kill (verb); drepe
+light (/heavy); lett tungt)
+material; materiale
+music; musikk
+kilogram; kilo
+light (noun); lys
+May; Kan
+narrow; smal
+king; konge
+lip; leppe
+mean (/nice); mener (/ hyggelig)
+nature; natur
+kiss (verb); kysse
+listen (music) (verb); lytte
+medicine; medisin
+neck; nakke
+kitchen; kjøkken
+location; plassering
+melt (verb); smelte
+needle; nål
+knee; kne
+lock (noun); låse
+metal; metall
+neighbor; nabo
+knife; kniv
+long; lang
+meter; måler
+network; nettverk
+lake; innsjø
+loose; løs
+milk; melk
+new; ny
+lamp; lampe
+lose (verb); å tape
+million; million
+newspaper; avis
+laptop; laptop
+loud; høyt
+minute; minutt
+nice; hyggelig
+laugh (verb); latter
+love (verb); kjærlighet
+mix/stir (verb); mix / røre
+night; natt
+lawyer; advokat
+low; lav
+Monday; mandag
+nine; ni
+leaf; blad
+lunch; lunsj
+money; penger
+nineteen; nitten
+learn (verb); lære
+magazine; Blad
+month; måned
+ninety; nitti
+left (direction); venstre
+male; mann
+moon; måne
+no; Nei
+leg; bein
+man; Mann
+morning; morgen
+north; Nord
+lemon; sitron
+manager; sjef
+mother; mor
+nose; nese
+letter; brev
+map; kart
+mountain; fjell
+note (on; note (på
+paper); papir)
+November; november
+pass (verb); passere
+pool; basseng
+restaurant; restaurant
+nuclear; kjernekraft
+patient (noun); pasient
+poor; fattige
+rice; ris
+number; Nummer
+pattern; mønster
+pork; svinekjøtt
+rich; rik
+ocean; hav
+pay (verb); betale
+pound (weight); pund
+right (direction); Ikke sant
+October; oktober
+peace; fred
+pray (verb); be
+ring; ringe
+office; kontor
+pen; penn
+president; president
+river; elv
+oil; olje
+pencil; blyant
+price; pris
+roof; tak
+old (/new); gammel (/ ny)
+person; person
+priest; prest
+room (in; rom (inn
+a; en
+house); hus)
+old (/young); gammel ung)
+photograph; fotografi
+prison; fengsel
+root; rot
+one; en
+piece; stykke
+program (computer); program
+run (verb); løpe
+open (verb); åpen
+pig; gris
+pull (verb); dra
+sad; lei seg
+orange (color); oransje
+pink; rosa
+push (verb); trykk
+salt; salt
+orange (food); oransje
+plane; fly
+queen; dronning
+sand; sand
 
 
-outside; 
-plant (noun); 
-quiet; 
-Saturday; 
-page; 
-plastic; 
-race (ethnicity); 
-school; 
-pain; 
-plate; 
-race (sport); 
-science; 
-paint; 
-play (verb); 
-radio; 
-screen; 
-pants; 
-player; 
-rain (noun); 
-sea; 
-paper; 
-pocket; 
-red; 
-season; 
-parent; 
-poison (noun); 
-religion; 
-second (2nd); 
-park (location); 
-police; 
-reporter; 
-second (time); 
-secretary; 
-side; 
-soil/earth; 
-strong; 
-see (a; 
-bird); 
-sign (noun); 
-soldier; 
-student; 
-seed; 
-sign (verb); 
-son; 
-sugar; 
-sell (verb); 
-silver; 
-song; 
-suit (noun); 
-September; 
-sing (verb); 
-sound; 
-summer; 
-seven; 
-sister; 
-soup; 
-sun; 
-seventeen; 
-sit (verb); 
-south; 
-Sunday; 
-seventy; 
-six; 
-space (outer; 
-space); 
-sweat (noun); 
-sex (gender); 
-sixteen; 
-speak/say (verb); 
-swim (verb); 
-sex (the; 
-act); 
-sixty; 
-spoon; 
-T-shirt; 
-shake (verb); 
-skin; 
-sport; 
-table; 
-shallow; 
-skirt; 
-spring (season); 
-tall; 
-she; 
-sky; 
-square; 
-taste (verb); 
-ship; 
-sleep (verb); 
-stain; 
-tea; 
-shirt; 
-slow; 
-stand (verb); 
-teach (verb); 
-shoes; 
-small/little; 
-star; 
-teacher; 
-shoot (a; 
-gun); 
-smell (verb); 
-stone; 
-team; 
-short (long); 
-smile (verb); 
-stop (verb); 
-tear (drop); 
-short (vs.; 
-tall); 
-snow (noun); 
-store/shop; 
-technology; 
-shoulder; 
-soap; 
-straight; 
-telephone; 
-sick; 
-soft; 
-street/road; 
-television; 
-temperature; 
-tooth; 
-voice (noun); 
-white; 
-ten; 
-top; 
-vowel; 
-wide; 
-theater; 
-touch (verb); 
-waiter; 
-wife; 
-they; 
-town; 
-wake; 
-up (verb); 
-win (verb); 
-thick; 
-train (noun); 
-walk (verb); 
-wind (noun); 
-thin; 
-train; 
-station; 
-wall; 
-window; 
-think (verb); 
-transportation; 
-war; 
-wine; 
+outside; utenfor
+plant (noun); anlegg
+quiet; stille
+Saturday; lørdag
+page; side
+plastic; plast
+race (ethnicity); løp
+school; skole
+pain; smerte
+plate; tallerken
+race (sport); løp
+science; vitenskap
+paint; maling
+play (verb); spille
+radio; radio
+screen; skjerm
+pants; bukser
+player; spiller
+rain (noun); regn
+sea; hav
+paper; papir
+pocket; lomme
+red; rød
+season; årstid
+parent; forelder
+poison (noun); gift
+religion; Religion
+second (2nd); andre (2.)
+park (location); parkere
+police; politiet
+reporter; journalist
+second (time); sekund
+secretary; sekretær
+side; side
+soil/earth; jord / jord
+strong; sterk
+see (a; se en
+bird); fugl)
+sign (noun); skilt
+soldier; soldat
+student; student
+seed; frø
+sign (verb); skilt
+son; sønn
+sugar; sukker
+sell (verb); selge
+silver; sølv
+song; sang
+suit (noun); dress
+September; september
+sing (verb); synge
+sound; lyd
+summer; sommer
+seven; sju
+sister; søster
+soup; suppe
+sun; sol
+seventeen; sytten
+sit (verb); sit
+south; sør
+Sunday; søndag
+seventy; sytti
+six; seks
+space (outer; plass (ytre
+space); rom)
+sweat (noun); svette
+sex (gender); kjønn
+sixteen; seksten
+speak/say (verb); tale / si
+swim (verb); svømme
+sex (the; sex (den
+act); handling)
+sixty; seksti
+spoon; skje
+T-shirt; T skjorte
+shake (verb); riste
+skin; hud
+sport; sport
+table; bord
+shallow; grunt
+skirt; skjørt
+spring (season); vår
+tall; høy
+she; hun
+sky; himmel
+square; torget
+taste (verb); smak
+ship; skip
+sleep (verb); sove
+stain; flekk
+tea; te
+shirt; skjorte
+slow; sakte
+stand (verb); stå
+teach (verb); lære bort
+shoes; sko
+small/little; liten / liten
+star; stjerne
+teacher; lærer
+shoot (a; skyte (a
+gun); våpen)
+smell (verb); lukte
+stone; stein
+team; team
+short (long); kort
+smile (verb); smil
+stop (verb); Stoppe
+tear (drop); rive
+short (vs.; kort (vs.
+tall); høy)
+snow (noun); snø
+store/shop; butikk / butikk
+technology; teknologi
+shoulder; skulder
+soap; såpe
+straight; rett
+telephone; telefon
+sick; syk
+soft; myk
+street/road; street / vei
+television; fjernsyn
+temperature; temperatur
+tooth; tann
+voice (noun); stemme
+white; hvit
+ten; ti
+top; topp
+vowel; vokal
+wide; bred
+theater; teater
+touch (verb); ta på
+waiter; kelner
+wife; kone
+they; de
+town; by
+wake; våkne
+up (verb); opp
+win (verb); vinne
+thick; tykk
+train (noun); tog
+walk (verb); gå
+wind (noun); vind
+thin; tynn
+train; tog
+station; stasjon
+wall; vegg
+window; vindu
+think (verb); synes at
+transportation; transport
+war; krig
+wine; vin
 
 
-third (3rd); 
-tree; 
-warm (adjective); 
-wing; 
-thirteen; 
-truck; 
-wash (verb); 
-winter; 
-thirty; 
-Tuesday; 
-watch (TV) (verb); 
-woman; 
-thousand; 
-turn (verb); 
-water (noun); 
-wood; 
-three; 
-twelve; 
-wave (ocean); 
-work (verb); 
-throw (verb); 
-twenty; 
-we; 
-world; 
-Thursday; 
-twenty-one (etc.); 
-weak; 
-write (verb); 
-ticket (train); 
-two; 
-wear (verb); 
-yard; 
-tight; 
-ugly; 
-wedding; 
-year; 
-time (noun); 
-university; 
-Wednesday; 
-yellow; 
-tire (of; 
-a; 
-car); 
-up; 
-week; 
-yes; 
-toe; 
-valley; 
-weight; 
-you (singular/plural); 
-tongue; 
-verb; 
-west; 
-young; 
-tool; 
-victim; 
-wet (adj.); 
-zero; 
+third (3rd); tredje (tredje)
+tree; tre
+warm (adjective); varm
+wing; vinge
+thirteen; tretten
+truck; lastebil
+wash (verb); vask
+winter; vinter
+thirty; tretti
+Tuesday; tirsdag
+watch (TV) (verb); se (TV)
+woman; kvinne
+thousand; tusen
+turn (verb); sving
+water (noun); vann
+wood; tre
+three; tre
+twelve; tolv
+wave (ocean); bølge
+work (verb); arbeid
+throw (verb); kaste
+twenty; tjue
+we; vi
+world; verden
+Thursday; Torsdag
+twenty-one (etc.); en og tyve (osv.)
+weak; svak
+write (verb); skrive
+ticket (train); billett
+two; to
+wear (verb); ha på
+yard; verftet
+tight; stramt
+ugly; stygg
+wedding; bryllup
+year; år
+time (noun); tid
+university; universitet
+Wednesday; onsdag
+yellow; gul
+tire (of; dekk (av
+a; en
+car); bil)
+up; opp
+week; uke
+yes; ja
+toe; tå
+valley; dal
+weight; vekt
+you (singular/plural); deg (entall / flertall)
+tongue; tunge
+verb; verb
+west; vest
+young; ung
+tool; verktøy
+victim; offer
+wet (adj.); våt (adj.)
+zero; null
