@@ -1,4 +1,4 @@
-actor; kuespiller
+actor; skuespiller
 afternoon; ettermiddag
 alive; i live
 apple; eple
@@ -9,10 +9,10 @@ April; april
 adult; voksen
 airport; flyplassen
 apartment; leilighet
-arm; væpne
+arm; arm
 army; hær
 bed; seng
-box (noun); eske
+box (noun); boks
 cat; katt
 art; Kunst
 bedroom; soverom
@@ -29,7 +29,7 @@ cell; celle
 phone; telefon
 August; august
 bend (verb); bøye
-break (verb); gå i stykker
+break (verb); å bryte
 centimeter; centimeter
 author (noun); forfatter
 beverage; drikke
@@ -39,7 +39,7 @@ baby; baby
 bicycle; sykkel
 bridge (noun); bro
 cheap; billig
-back (body); tilbake
+back (body); rygg
 big/large; stor / stor
 brother; bror
 cheese; ost
@@ -49,23 +49,23 @@ brown; brun
 chicken; kylling
 bad; dårlig
 billion; milliarder
-build (verb); bygge
+build (verb); å bygge
 child; barn
-bag (noun); bag
+bag (noun); pose
 bird; fugl
 building; bygning
 church; kirke
 ball; ball
 black; svart
-burn (verb); brenne
+burn (verb); å brenne
 circle (noun); sirkel
 banana; banan
 blind (adjective); blind
 bus; buss
 city; by
-band (music); bånd
+band (music); band
 blood; blod
-buy (verb); kjøpe
+buy (verb); å kjøpe
 clay; leire
 bank; bank
 blue; blå
@@ -73,8 +73,8 @@ cake; kake
 clean (adjective); ren
 bar (location); Bar
 boat; båt
-call (verb); anrop
-clean (verb); ren
+call (verb); å ringe
+clean (verb); å vaske
 bathroom; baderom
 body; kropp
 camera; kamera
@@ -82,16 +82,16 @@ clock; klokke
 beach; Strand
 bone; bein
 camp (noun); leir
-close (verb); Lukk
+close (verb); å lukke
 beard; skjegg
 book; bok
 car; bil
 clothing; klær
-beat (verb); slå
+beat (verb); å slå
 bottle; flaske
 card; kort
-club (the; klubb (the
-location); plassering)
+club; klubb
+location; posisjon
 beautiful; vakker
 bottom; bunn
 carry (verb); bære
@@ -101,9 +101,8 @@ dark; mørk
 down; ned
 energy; energi
 cold; kald
-date (May; dato (mai
-7)7)
-draw (verb); tegne
+date; dato 
+draw (verb); å tegne
 engine; motor
 color (noun); farge
 daughter; datter
@@ -115,26 +114,24 @@ dress (noun); kjole
 exercise (noun); trening
 consonant; konsonant
 dead; død
-drink (verb); drikke
-expensive; dyrt
+drink (verb); å drikke
+expensive; dyr
 contract (noun); kontrakt
 deaf; døv
-drive (verb); kjøre
+drive (verb); å kjøre
 explode (verb); eksplodere
-
-
-cook (verb); kokk
+cook (verb); å lage
 death; død
 drug (noun); legemiddel
 eye (noun); øye
 cool (adjective); kul
 December; desember
-dry; tørke
+dry; å tørke
 face (noun); ansikt
 copper; kobber
 deep; dyp
 dust (noun); støv
-fall (season); falle
+fall (season); høst
 corn; korn
 diamond; diamant
 ear; øre
@@ -147,13 +144,13 @@ count (verb); telle
 dig (verb); grave
 east; øst
 famous; berømt
-country (United; land (United
+country ; land
 States,; stater,
-Spain); Spania)
+Spain; Spania
 dinner; middag
 eat (verb); spise
-fan (electric); fan
-court; domstol
+fan (electric); vifte
+court; rett
 direction; retning
 edge; kant
 fan (sport); fan
@@ -161,7 +158,7 @@ cow; ku
 dirty; skitne
 egg; egg
 farm (noun); gård
-crowd (noun); publikum
+crowd (noun); mengden
 disease; sykdom
 eight; åtte
 fast; fort
@@ -177,27 +174,27 @@ curved; krummet
 dollar; dollar
 election; valg
 feed (verb); mate
-cut (verb); kutte opp
+cut (verb); å klipper
 door; dør
 electronics; elektronikk
-female; hunn
-dance (verb); danse
-dot; punktum
+female; kvinne
+dance (verb); å danse
+dot; prikk
 eleven; elleve
 fifteen; femten
 fifth (5th); femte (femte)
 fourteen; fjorten
-grow (verb); vokse
+grow (verb); å vokse
 horse; hest
 fifty; femti
 fourth (4th); fjerde (fjerde)
 gun; våpen
 hospital; sykehus
-fight (verb); slåss
+fight (verb); å kjempe
 Friday; fredag
 hair; hår
-hot; varmt
-find (verb); finne
+hot; varm
+find (verb); å finne
 friend; venn
 half; halv
 hotel; hotell
@@ -207,11 +204,11 @@ hand; hånd
 hour; time
 fire (noun); Brann
 game; spill
-hang (verb); henge
+hang (verb); å henge
 house; hus
-first (1st); første (første)
+first (1st); første
 garden; hage
-happy; lykkelig
+happy; glad
 human; menneskelig
 fish (noun); fisk
 gasoline; bensin
@@ -222,7 +219,7 @@ gift; gave
 hat; hatt
 husband; mann
 flat (adjective); flat
-girl; pike
+girl; jente
 he; han
 I; Jeg
 floor; gulv
@@ -230,28 +227,25 @@ glass; glass
 head; hode
 ice; is
 flower; blomst
-go (verb); gå
+go (verb); å gå
 healthy; sunn
 image; bilde
-fly (verb); fly
+fly (verb); å fly
 God; Gud
-hear (a; høre (a
-sound); lyd)
-inch; tommers
-follow (verb); Følg
+hear ; å høre
+sound; lyd
+follow (verb); å Følge
 gold; gull
 heart; hjerte
 injury; skade
 food; mat
 good; flink
 heat (noun); varme
-inside; innsiden
-foot (body; fot (kropp
-part); del)
+inside; inn
+foot ; fot
 grandfather; farfar
 heaven; himmel
 instrument (musical); instrument
-foot (measurement); fot
 grandmother; mormor
 heavy; tung
 island; øy
@@ -265,21 +259,18 @@ high; høy
 January; januar
 forty; førti
 green; grønn
-hill; høyde
+hill; bakken
 job; jobb
 four; fire
 ground; bakke
 hole; hull
 juice; juice
-
-
 July; juli
 library; bibliotek
 March; mars
 mouse; mus
-jump (verb); hoppe
+jump (verb); å hoppe
 lie; å ligge
-down (verb); ned
 market; marked
 mouth; munn
 June; juni
@@ -287,20 +278,20 @@ lift (verb); løfte
 marriage; ekteskap
 movie; film
 key; nøkkel
-light (/dark); lys mørk)
-marry (verb); gifte seg
+light (/dark); lys (/mørk)
+marry (verb); å gifte seg
 murder (noun); mord
-kill (verb); drepe
-light (/heavy); lett tungt)
+kill (verb); å drepe
+light (/heavy); lett (/tungt)
 material; materiale
 music; musikk
 kilogram; kilo
 light (noun); lys
-May; Kan
+May; Mai
 narrow; smal
 king; konge
 lip; leppe
-mean (/nice); mener (/ hyggelig)
+mean (/nice); mener (/hyggelig)
 nature; natur
 kiss (verb); kysse
 listen (music) (verb); lytte
@@ -308,7 +299,7 @@ medicine; medisin
 neck; nakke
 kitchen; kjøkken
 location; plassering
-melt (verb); smelte
+melt (verb); å smelte
 needle; nål
 knee; kne
 lock (noun); låse
@@ -316,21 +307,21 @@ metal; metall
 neighbor; nabo
 knife; kniv
 long; lang
-meter; måler
+meter; meter
 network; nettverk
 lake; innsjø
 loose; løs
 milk; melk
 new; ny
 lamp; lampe
-lose (verb); å tape
+lose (verb); å mister
 million; million
 newspaper; avis
 laptop; laptop
 loud; høyt
 minute; minutt
 nice; hyggelig
-laugh (verb); latter
+laugh (verb); å la
 love (verb); kjærlighet
 mix/stir (verb); mix / røre
 night; natt
@@ -361,24 +352,22 @@ nose; nese
 letter; brev
 map; kart
 mountain; fjell
-note (on; note (på
-paper); papir)
+note; å notere
 November; november
 pass (verb); passere
 pool; basseng
 restaurant; restaurant
 nuclear; kjernekraft
-patient (noun); pasient
-poor; fattige
+patient (noun);  tålmodig
+poor; fattig
 rice; ris
 number; Nummer
 pattern; mønster
 pork; svinekjøtt
 rich; rik
 ocean; hav
-pay (verb); betale
-pound (weight); pund
-right (direction); Ikke sant
+pay (verb); å betale
+right (direction); høyre
 October; oktober
 peace; fred
 pray (verb); be
@@ -394,21 +383,21 @@ roof; tak
 old (/new); gammel (/ ny)
 person; person
 priest; prest
-room (in; rom (inn
+room ; rom
 a; en
-house); hus)
-old (/young); gammel ung)
-photograph; fotografi
+house; hus
+old (/young); gammel (/ung)
+photograph; bilde
 prison; fengsel
 root; rot
 one; en
 piece; stykke
 program (computer); program
-run (verb); løpe
-open (verb); åpen
-pig; gris
-pull (verb); dra
-sad; lei seg
+run (verb); å løpe
+open (verb); å åpne
+pig;  svein
+pull (verb); å dra
+sad; tryst
 orange (color); oransje
 pink; rosa
 push (verb); trykk
@@ -417,10 +406,8 @@ orange (food); oransje
 plane; fly
 queen; dronning
 sand; sand
-
-
 outside; utenfor
-plant (noun); anlegg
+plant (noun); plante
 quiet; stille
 Saturday; lørdag
 page; side
