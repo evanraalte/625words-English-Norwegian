@@ -412,7 +412,7 @@ quiet; stille
 Saturday; lørdag
 page; side
 plastic; plast
-race (ethnicity); løp
+race (ethnicity); rasse
 school; skole
 pain; smerte
 plate; tallerken
@@ -434,7 +434,7 @@ parent; forelder
 poison (noun); gift
 religion; Religion
 second (2nd); andre (2.)
-park (location); parkere
+park (location); å parkere
 police; politiet
 reporter; journalist
 second (time); sekund
@@ -442,8 +442,8 @@ secretary; sekretær
 side; side
 soil/earth; jord / jord
 strong; sterk
-see (a; se en
-bird); fugl)
+see (a); se (en)
+bird; fugl
 sign (noun); skilt
 soldier; soldat
 student; student
@@ -451,12 +451,12 @@ seed; frø
 sign (verb); skilt
 son; sønn
 sugar; sukker
-sell (verb); selge
+sell (verb); å selge
 silver; sølv
 song; sang
 suit (noun); dress
 September; september
-sing (verb); synge
+sing (verb); å synge
 sound; lyd
 summer; sommer
 seven; sju
@@ -469,19 +469,19 @@ south; sør
 Sunday; søndag
 seventy; sytti
 six; seks
-space (outer; plass (ytre
-space); rom)
-sweat (noun); svette
+space (outer); plass (ytre)
+space; rom
+sweat (noun); å svette
 sex (gender); kjønn
 sixteen; seksten
-speak/say (verb); tale / si
-swim (verb); svømme
-sex (the; sex (den
-act); handling)
+speak/say (verb); å tale / si
+swim (verb); å svømme
+sex (the); sex (den)
+act; handling
 sixty; seksti
 spoon; skje
-T-shirt; T skjorte
-shake (verb); riste
+T-shirt; T-skjorte
+shake (verb); å riste
 skin; hud
 sport; sport
 table; bord
@@ -492,32 +492,32 @@ tall; høy
 she; hun
 sky; himmel
 square; torget
-taste (verb); smak
+taste (verb); å smake
 ship; skip
-sleep (verb); sove
+sleep (verb); å sove
 stain; flekk
 tea; te
 shirt; skjorte
 slow; sakte
-stand (verb); stå
-teach (verb); lære bort
+stand (verb); å stå
+teach (verb); å lære
 shoes; sko
-small/little; liten / liten
+small/little; liten
 star; stjerne
 teacher; lærer
-shoot (a; skyte (a
-gun); våpen)
-smell (verb); lukte
+shoot (verb); å skyte 
+gun; våpen
+smell (verb); å lukte
 stone; stein
 team; team
 short (long); kort
-smile (verb); smil
-stop (verb); Stoppe
-tear (drop); rive
-short (vs.; kort (vs.
-tall); høy)
+smile (verb); å smile
+stop (verb); å stoppe
+tear (drop); tåre
+short; kort
+tall; høy
 snow (noun); snø
-store/shop; butikk / butikk
+store/shop; butikk
 technology; teknologi
 shoulder; skulder
 soap; såpe
@@ -525,7 +525,7 @@ straight; rett
 telephone; telefon
 sick; syk
 soft; myk
-street/road; street / vei
+street/road; vei
 television; fjernsyn
 temperature; temperatur
 tooth; tann
@@ -536,29 +536,27 @@ top; topp
 vowel; vokal
 wide; bred
 theater; teater
-touch (verb); ta på
+touch (verb); å ta på
 waiter; kelner
 wife; kone
 they; de
 town; by
 wake; våkne
-up (verb); opp
-win (verb); vinne
+up; opp
+win (verb); å vinne
 thick; tykk
 train (noun); tog
-walk (verb); gå
+walk (verb); å gå
 wind (noun); vind
 thin; tynn
-train; tog
+train; å trene
 station; stasjon
 wall; vegg
 window; vindu
-think (verb); synes at
+think (verb); å syne
 transportation; transport
 war; krig
 wine; vin
-
-
 third (3rd); tredje (tredje)
 tree; tre
 warm (adjective); varm
@@ -569,28 +567,28 @@ wash (verb); vask
 winter; vinter
 thirty; tretti
 Tuesday; tirsdag
-watch (TV) (verb); se (TV)
+watch (TV) (verb); å se (TV)
 woman; kvinne
 thousand; tusen
-turn (verb); sving
+turn (verb); å dreie
 water (noun); vann
 wood; tre
 three; tre
 twelve; tolv
 wave (ocean); bølge
-work (verb); arbeid
+work (verb); å jobbe
 throw (verb); kaste
 twenty; tjue
 we; vi
 world; verden
 Thursday; Torsdag
-twenty-one (etc.); en og tyve (osv.)
+twenty-one (etc.); tjueen
 weak; svak
-write (verb); skrive
+write (verb); å skrive
 ticket (train); billett
 two; to
-wear (verb); ha på
-yard; verftet
+wear (verb); å ha på
+yard; hage
 tight; stramt
 ugly; stygg
 wedding; bryllup
@@ -599,16 +597,17 @@ time (noun); tid
 university; universitet
 Wednesday; onsdag
 yellow; gul
-tire (of; dekk (av
+tire; dekk
+tired; trett
 a; en
-car); bil)
+car; bil
 up; opp
 week; uke
 yes; ja
 toe; tå
 valley; dal
 weight; vekt
-you (singular/plural); deg (entall / flertall)
+you; deg
 tongue; tunge
 verb; verb
 west; vest
